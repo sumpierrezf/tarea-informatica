@@ -11,8 +11,9 @@ body{
     list-style-type: none;
 }
 
-.boton {
+.button {
     background-color: bisque;
     border-radius: 20%;
     border-color: black;
+    padding: 0.5% 1% 0.5% 1%;
 }
