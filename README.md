@@ -1,4 +1,4 @@
 # tarea-informatica
 + **_working directory_** 🎇
-staging area ✨
-rama main 🧨
++ **_staging area_**  ✨
++ **_rama main_**  🧨
