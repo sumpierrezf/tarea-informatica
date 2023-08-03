@@ -12,6 +12,13 @@ body {
     list-style-type: none;
 }
 
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+
 h1 {
     position: relative;
     padding: 0;
